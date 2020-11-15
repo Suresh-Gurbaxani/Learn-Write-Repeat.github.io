@@ -4,18 +4,18 @@
         <loc>http://devincept.codes/contribute.html</loc>
     </url>
     <url>
+        <loc>http://devincept.codes/CV.html</loc>
+    </url>
+    <url>
         <loc>http://devincept.codes/index.html</loc>
     </url>
     <url>
-        <loc>http://devincept.codes/ml_blog.html</loc>
+        <loc>http://devincept.codes/ML.html</loc>
     </url>
     <url>
-        <loc>http://devincept.codes/nlp_blog.html</loc>
+        <loc>http://devincept.codes/NLP.html</loc>
     </url>
     <url>
-        <loc>http://devincept.codes/opencv_blog.html</loc>
-    </url>
-    <url>
-        <loc>http://devincept.codes/python_blog.html</loc>
+        <loc>http://devincept.codes/Python.html</loc>
     </url>
 </urlset>
