@@ -1,4 +1,4 @@
-#Machine Learning
+# Machine Learning
 
 Logistic Regression
 Linear Regression
@@ -9,6 +9,6 @@ XGBoost
 KNN
 K-Means
 
-#SQL
-#Tableau
-#PowerBI
+# SQL
+# Tableau
+# PowerBI
